@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Click with Clare"
   left:
-    - text: "Home"
+    - text: "United States"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    - text: "International"
+      href: International.html

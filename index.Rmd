@@ -1,5 +1,17 @@
 ---
-title: "Click with Clare"
+title: "USA Travels"
 ---
 
-Hello, World!
+- __City:__ Washington, DC
+
+
+
+- __City:__ Boston, MA
+
+
+
+- __City:__ Raleigh, NC
+
+![](Raleigh.jpg)
+
+- __City:__ Austin, TX
