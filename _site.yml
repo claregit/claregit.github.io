@@ -1,0 +1,15 @@
+name: "clare-website"
+output_dir: "."
+navbar:
+  title: "Click with Clare"
+  left:
+    - text: "United States"
+      href: index.html
+    - text: "International"
+      href: International.html
+      
+
+output:
+  html_document:
+    theme: journal
+    css: style.css
