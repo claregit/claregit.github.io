@@ -1,5 +1,5 @@
 #install.packages("rmarkdown", type = "source")
-#library(rmarkdown)
+library(rmarkdown)
 
 # set website working directory
 setwd('C:/Users/Clare/Documents/GitHub/claregit.github.io')
