@@ -7,3 +7,9 @@ navbar:
       href: index.html
     - text: "International"
       href: International.html
+      
+
+output:
+  html_document:
+    theme: journal
+    css: style.css
